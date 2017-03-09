@@ -1,0 +1,25 @@
+{
+  "name": "yes",
+  "description": "yes",
+  "main": "yes",
+  "authors": [
+    "yes"
+  ],
+  "license": "yes",
+  "keywords": [
+    "yes"
+  ],
+  "homepage": "yes",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/verdor",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "sweetalert": "^1.1.3"
+  }
+}
